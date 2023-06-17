@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ru.kartofan.theme.music.app",
+    "sha256_cert_fingerprints":
+    ["ee:0b:9c:c1:c2:b9:02:5a:91:d0:37:61:a7:65:31:6f:3c:75:8b:9d:35:34:d8:64:c9:15:81:48:2d:71:d2:70"]
+  }
+}]
