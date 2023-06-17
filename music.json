@@ -1,1 +1,7 @@
-[{"artist":"Artist","name":"Atomic Heart","image":"https://kartofantheme.github.io/music/AtomicHeart/image.jpg","link":"https://kartofantheme.github.io/music_locales/AtomicHeart/link.json","albums":"https://kartofantheme.github.io/music_locales/AtomicHeart/albums.json"}]
+[{"artist":"Artist",
+"name":"Atomic Heart",
+"image":"https://kartofantheme.github.io/AtomicHeart/image.jpg",
+"link":"https://kartofantheme.github.io/AtomicHeart/link.json",
+"albums":{
+	"test":""
+}}]
