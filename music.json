@@ -1,7 +1,4 @@
-[{"artist":"Artist",
+[{"info_en":"Artist","info_ru":"Артист","info_de":"Interpret:in",
 "name":"Atomic Heart",
 "image":"https://kartofantheme.github.io/AtomicHeart/image.jpg",
-"link":"https://kartofantheme.github.io/AtomicHeart/link.json",
-"albums":{
-	"test":""
-}}]
+"link":"https://kartofantheme.github.io/AtomicHeart/link.json"}]
