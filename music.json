@@ -1,6 +1,2 @@
-[{"info_en":"Artist",
-  "info_ru":"Артист",
-  "info_de":"Interpret:in",
-"name":"Atomic Heart",
-"image":"https://kth-studio.github.io/AtomicHeart/image.jpg",
-"link":"https://kth-studio.github.io/AtomicHeart/link.json"}] 
+[{"info_en":"Artist","info_ru":"Артист","info_de":"Interpret:in","name":"Atomic Heart","image":"https://kth-studio.github.io/AtomicHeart/image.jpg","link":"https://kth-studio.github.io/AtomicHeart/link.json"},
+{"info_en":"Artist","info_ru":"Артист","info_de":"Interpret:in","name":"Test","image":"https://kth-studio.github.io/kTH-Site/logos/web.png"}] 
