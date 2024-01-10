@@ -1,7 +1,7 @@
-[{"info":"Artist","name":"Atomic Heart","image":"https://kth-studio.github.io/AtomicHeart/image.jpg","link":"https://kth-studio.github.io/AtomicHeart/link.json"},
-{"info":"Artist","name":"Karna.val","image":"https://kth-studio.github.io/Karna.val/image.jpg","link":"https://kth-studio.github.io/Karna.val/link.json"},
-{"info":"Artist","name":"Marshmello","image":"https://kth-studio.github.io/Marshmello/image.jpg","link":"https://kth-studio.github.io/Marshmello/link.json"},
-{"info":"Artist","name":"MiatriSs","image":"https://kth-studio.github.io/MiatriSs/image.jpg"},
-{"info":"Artist","name":"Norimyxxxo","link":"https://kth-studio.github.io/Norimyxxxo/link.json"},
-{"info":"Artist","name":"Oxxxymiron","image":"https://kth-studio.github.io/Oxxxymiron/image.jpg","link":"https://kth-studio.github.io/Oxxxymiron/link.json"},
-{"info":"Artist","name":"Save Haku","image":"https://kth-studio.github.io/SaveHaku/image.jpg","link":"https://kth-studio.github.io/SaveHaku/link.json"}] 
+[{"info":"Artist","name":"Atomic Heart","image":"/AtomicHeart/image.jpg","link":"/AtomicHeart/link.json"},
+{"info":"Artist","name":"Karna.val","image":"/Karna.val/image.jpg","link":"/Karna.val/link.json"},
+{"info":"Artist","name":"Marshmello","image":"/Marshmello/image.jpg","link":"/Marshmello/link.json"},
+{"info":"Artist","name":"MiatriSs","image":"/MiatriSs/image.jpg"},
+{"info":"Artist","name":"Norimyxxxo","link":"/Norimyxxxo/link.json"},
+{"info":"Artist","name":"Oxxxymiron","image":"/Oxxxymiron/image.jpg","link":"/Oxxxymiron/link.json"},
+{"info":"Artist","name":"Save Haku","image":"/SaveHaku/image.jpg","link":"/SaveHaku/link.json"}] 
