@@ -1,8 +1,8 @@
-[{"name":"Артисты мюзикла “Ничего не бойся, я с тобой”","image":"Artisti-myuzikla-Nichego-ne-boisya-ya-s-toboi-","link":"Artisti-myuzikla-Nichego-ne-boisya-ya-s-toboi-"},
-{"name":"Atomic Heart","image":"AtomicHeart","link":"AtomicHeart"},
-{"name":"Karna.val","image":"Karna.val","link":"Karna.val"},
-{"name":"Marshmello","image":"Marshmello","link":"Marshmello"},
-{"name":"MiatriSs","image":"MiatriSs"},
-{"name":"Norimyxxxo","link":"Norimyxxxo"},
-{"name":"Oxxxymiron","image":"Oxxxymiron","link":"Oxxxymiron"},
-{"name":"Save Haku","image":"SaveHaku","link":"SaveHaku"}] 
+[{"url":"Artisti-myuzikla-Nichego-ne-boisya-ya-s-toboi-","name":"Артисты мюзикла “Ничего не бойся, я с тобой”","image":"","link":""},
+{"url":"AtomicHeart","name":"Atomic Heart","image":"","link":""},
+{"url":"Karna.val","name":"Karna.val","image":"","link":""},
+{"url":"Marshmello","name":"Marshmello","image":"","link":""},
+{"url":"MiatriSs","name":"MiatriSs","image":""},
+{"url":"Norimyxxxo","name":"Norimyxxxo","link":""},
+{"url":"Oxxxymiron","name":"Oxxxymiron","image":"","link":""},
+{"url":"SaveHaku","name":"Save Haku","image":"","link":""}] 
